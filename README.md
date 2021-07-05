@@ -29,11 +29,3 @@ Amostra do último projeto que fiz:
 
 <p align="center">
   <img src="livrariamendis-gif.gif">
-<p align="center">
-  <img src="livrariamendis2-gif.gif">
- 
-
----
-### Atenção
-Todos os direitos autorais das imagens no vídeo são pertencentes aos donos delas
-
