@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 Estudante do curso de Sistemas de Informação na UNIRIO 
 - 😄 Ensino Médio concluído no Colégio Militar do Rio de Janeiro
-- 🌱 Aprendendo a linguagem JAVA e JavaScript
-- 👯 Estudadas anteriormente: C/C++, HTML5, CSS3 e Arduino;
+- 🌱 Atualmente aprendendo a linguagem SWIFT
+- 👯 Nivel iniciante em: C/C++, HTML5, CSS3, Arduino, JAVA e SQL;
 - 💬 Apple Academy;
 - 📍 Atualmente vivo no Rio de Janeiro (RJ);
 - 📫 Minhas redes sociais:
