@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Ensino Médio concluído no Colégio Militar do Rio de Janeiro
 - 🌱 Aprendendo a linguagem JAVA e JavaScript
 - 👯 Estudadas anteriormente: C/C++, HTML5, CSS3 e Arduino;
-- 💬 CIO na Sunrise TI Company;
+- 💬 Apple Academy;
 - 📍 Atualmente vivo no Rio de Janeiro (RJ);
 - 📫 Minhas redes sociais:
 
