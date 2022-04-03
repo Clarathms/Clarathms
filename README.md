@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Estudante do curso de Sistemas de Informação na UNIRIO 
+- 🍎 Apple Developer Academy|PUC-RIo
+- 🔭 Aluna do curso de Sistemas de Informação na UNIRIO 
 - 😄 Ensino Médio concluído no Colégio Militar do Rio de Janeiro
 - 🌱 Atualmente aprendendo a linguagem SWIFT
-- 👯 Nivel iniciante em: C/C++, HTML5, CSS3, Arduino, JAVA e SQL;
-- 💬 Apple Academy;
+- 👯 Nivel iniciante/intermediário em: C/C++, HTML5, CSS3, Arduino, JAVA e SQL;
 - 📍 Atualmente vivo no Rio de Janeiro (RJ);
 - 📫 Minhas redes sociais:
 
